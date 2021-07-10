@@ -1379,6 +1379,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 .course-box .course-bottom-item .course_bottom_icon p .star {
     color: #fcb903;
+    padding: 2px;
+}
+.course-box .course-bottom-item .course_bottom_icon p .star i {
+    font-size: 15px;
+    padding: 0 2px;
 }
 .course-box .course-bottom-item .course_bottom_btn span i {
     display: inline-block;
